@@ -1,0 +1,15 @@
+
+.bgImg {
+    background-image: url(../img/img3.jpg);
+    height: 660px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.imgText h6{
+    font-size: 60px;
+}
+.imgText{
+    padding-top: 200px;
+    box-sizing: border-box
+}
